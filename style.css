@@ -1,0 +1,57 @@
+*{
+    /* background-color: red; */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: yellow;
+}
+
+/* h2{
+    color: green;
+} */
+
+.Person > h1,
+.Person > h2,
+.Person >h3{
+    color: aqua;
+    background-color: black;
+}
+
+
+#One > h1{
+    color: rebeccapurple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+p{
+    color: red;
+    /* background-color: olivedrab; */
+    background-image: url(./Assets/Spider-man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.boxes{
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
+    /* padding-left: 50px;
+    padding-top: 30px; */
+    padding: 10px 20px 40px 50px;
+    border: 10px solid black;
+    /* border-top: 5px solid red; */
+    /* margin-top: 50px;
+    margin-left: 70px; */
+    margin: 10px 30px 50px 70px;
+}

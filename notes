@@ -1,0 +1,55 @@
+1. List - order list and unorder list
+
+2. tables - tr, th and td
+
+3. Forms - Label and input
+
+4. Media Element - Video and audio
+
+5. sematic tags - Header, footer, main, nav and section
+
+6. Division tag - div
+
+CSS - Cascading style sheet
+
+1. Types of CSS
+   i - Inline
+   ii - internal
+   iii - External
+   Inline > internal > External
+
+2. CSS Syntax
+   Selector{
+   property:value;
+   }
+
+3. Types of Selector
+   i - Element Selector - (h1) (h2) (p)
+   ii - Class Selector - (.) - Number of times - Multiple times can use the same class name
+   iii - Id Selector - (#) - unique - only one time can use the id name
+   iv - universal Selector - (\*) - Apply to the entire
+   v - Group Selector - same class or id name and different types of tags can Apply the same style we can go with Group Selector
+
+4. Colors and Background
+   color: red;
+   background-color: olivedrab;
+   background-image: url(./Assets/Spider-man.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+5. Text Styling
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 30px;
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration: underline;
+   font-weight: bold;
+   line-height: 1;
+   letter-spacing: 1px;
+
+6. Box Modeling
+   Content
+   padding
+   border
+   margin
